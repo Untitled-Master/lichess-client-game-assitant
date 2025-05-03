@@ -15,8 +15,8 @@ openai_client = OpenAI(
 )
 
 # CONFIG
-API_TOKEN = "lip_EUSd66E83bMdun8u0wU0"
-USERNAME = "dzoomaster"
+API_TOKEN = "lip_EUSd66E83bMdun8u0wU0" # doesnt worrk, get urs
+USERNAME = "dzoomaster" #put  ur username here
 POLL_INTERVAL = 1  # seconds
 
 console = Console()
