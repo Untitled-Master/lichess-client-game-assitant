@@ -1,0 +1,1 @@
+# lichess-client-game-assitant
